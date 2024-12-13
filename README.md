@@ -122,5 +122,5 @@ Yaptığımız analizler sonucunda, en uygun modelin Random Forest olduğunu bel
 - Python Sürümü: 3.10.14
 - Lisans: Yok
 
-Proje hakkında daha fazla bilgi veya kodlar için [https://www.kaggle.com/code/itselif/dengesiz-veri-seti-ile-dolandiricilik-tespiti](#) adresine göz atabilirsiniz.
+Proje hakkında daha fazla bilgi veya kodlar için [Kaggle](https://www.kaggle.com/code/itselif/dengesiz-veri-seti-ile-dolandiricilik-tespiti) adresine göz atabilirsiniz.
 
